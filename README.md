@@ -13,7 +13,8 @@ The game contains many commonalities in game programming including:
     Sprites
 
     Sound Effects (upon bullets firing and explosions)
-    User input from keyboard and mouse
+    
+    User input (WASD movement) from keyboard and mouse (shooting)
 
 Fun Fact, I drew the health bar and star sprites in an online drawing software myself.
 Download the demo file for a demonstration of how the game works

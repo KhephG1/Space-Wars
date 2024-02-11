@@ -15,5 +15,5 @@ The game contains many commonalities in game programming including:
     Sound Effects (upon bullets firing and explosions)
     User input from keyboard and mouse
 
-Fun Fact, I drew the health bar and star sprites in an online drawing software myself. Might change majors from electrical engineering to visual arts now.
+Fun Fact, I drew the health bar and star sprites in an online drawing software myself.
 Download the demo file for a demonstration of how the game works
